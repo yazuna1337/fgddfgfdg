@@ -1,2 +1,0 @@
-python manager.py
-pause
